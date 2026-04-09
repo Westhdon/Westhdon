@@ -2,7 +2,7 @@
 Im A Developer i program
 - Python
 - Javascript
-- Lua
+- C++
 - HTML (not a language but)
 - Powershell
 
