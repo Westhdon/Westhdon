@@ -11,7 +11,6 @@ I build custom PCBs, write system automation scripts, and tinker with Linux & cy
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=westhdon&layout=compact&theme=tokyonight)
 
 ![Commits](https://img.shields.io/github/commit-activity/m/westhdon/westhdon?style=for-the-badge&color=blue)
-![Repo Count](https://img.shields.io/github/repos/user/westhdon?style=for-the-badge&color=purple)
 
 ---
 
