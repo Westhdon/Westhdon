@@ -29,17 +29,17 @@ I build custom PCBs, write system automation scripts, and tinker with Linux & cy
 #### 🔌 Micro:BIT Robot control breakoutboard
 * **What it is:** PCB featuring 6 buttons, 3 servo inputs, battery system and on/off switch
 * **Tech used:** KiCad, Micro:BIT, Soldering
-* **Repo / Schematics:** [Link to folder or schematics]
+* **Repo / Schematics:** [COMING SOON]
 
 #### ⌨ LLM from scratch (OPEN SOURCE SOON)
 * **What it is:** A minimal LLM made from scratch with NO libraries.
 * **Tech used:** Python, SoftMax, tanh, matsplotlib
-* **Repo:** [Link to repository]
+* **Repo:** [COMING SOON]
 
 #### 🔎 osint.manager
 * **What it is:** A all in one OSINT program.
 * **Tech used:** Python, bash, batch, ISC
-* **Repo:** [Link to repository]
+* **Repo:** **[osint.manager](https://github.com/Westhdon/osint.manager)**
 
 ---
 
