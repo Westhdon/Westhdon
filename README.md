@@ -12,6 +12,8 @@ I build custom PCBs, write system automation scripts, and tinker with Linux & cy
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=westhdon&layout=compact&theme=tokyonight" />
 </p>
 
+---
+
 ### 🛠️ Tech Stack & Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
