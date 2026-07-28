@@ -1,16 +1,50 @@
-# https://westhdon.github.io
-# https://westhdon.github.io
-# https://westhdon.github.io
+# Hi, I'm Westh (or OpfinderA)👋
 
-# Hello
-Im A Developer i program
-- Python
-- Javascript
-- C++
-- HTML (not a language but)
-- Powershell
+I build custom PCBs, write system automation scripts, and tinker with Linux & cybersecurity.
 
-   I have A lot of cool projects so feel free to explore
+---
 
-  # Contact
-  guns.lol/westhdon
+### 📊 GitHub Stats
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+### 🛠️ Tech Stack & Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![KiCad](https://img.shields.io/badge/KiCad-31419B?style=for-the-badge&logo=kicad&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+
+---
+
+### 📌 Selected Projects
+
+#### 🔌 Micro:BIT Robot control breakoutboard
+* **What it is:** PCB featuring 6 buttons, 3 servo inputs, battery system and on/off switch
+* **Tech used:** KiCad, Micro:BIT, Soldering
+* **Repo / Schematics:** [Link to folder or schematics]
+
+#### ⌨ LLM from scratch (OPEN SOURCE SOON)
+* **What it is:** A minimal LLM made from scratch with NO libraries.
+* **Tech used:** Python, SoftMax, tanh, matsplotlib
+* **Repo:** [Link to repository]
+
+#### 🔎 osint.manager
+* **What it is:** A all in one OSINT program.
+* **Tech used:** Python, bash, batch, ISC
+* **Repo:** [Link to repository]
+
+---
+
+📫 **Reach Me:** https://westhdon.github.io, https://guns.lol/westhdon
+
+### 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)
