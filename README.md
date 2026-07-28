@@ -6,7 +6,7 @@ I build custom PCBs, write system automation scripts, and tinker with Linux & cy
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=westhdon&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=westhdon&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=westhdon&layout=compact&theme=tokyonight)
 
