@@ -41,6 +41,8 @@ I build custom PCBs, write system automation scripts, and tinker with Linux & cy
 * **Tech used:** Python, bash, batch, ISC
 * **Repo:** **[osint.manager](https://github.com/Westhdon/osint.manager)**
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=westhdon&repo=osint.manager&theme=tokyonight)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME)
+
 ---
 
 📫 **Reach Me:** https://westhdon.github.io, https://guns.lol/westhdon
